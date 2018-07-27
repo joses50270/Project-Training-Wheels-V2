@@ -1,0 +1,7 @@
+.cards {
+    display: flex;
+}
+
+.hover-black-button {
+    flex: 1;
+}
