@@ -1,7 +1,7 @@
 .cards {
     display: flex;
-    margin-left: 12.5%;
-    margin-top: 7.25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .hover-black-button {
@@ -14,13 +14,8 @@
 
 .title {
     text-align: center;
+    margin-top: 3%;
 }
-
-.smaller-carousel {
-    max-height: 50%;
-    max-width: 50%;
-}
-
 .alignment {
     cursor: pointer;
     color: #333;
@@ -38,7 +33,61 @@
 
 .button-position {
     position: relative;
-    bottom: 6.5%;
-    right: 16.5%;
-    left: 16.5%;
+    bottom: 7.5%;
+    right: 27%;
+    left: 27%;
+}
+#slide1{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/python.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide2{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/angular6.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide3{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/mongoDB.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide4{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/html.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide5{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/css.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide6{
+    width: 100%;
+    height: 700px;
+    background: url('../../../assets/ionic.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.container{
+    width: 100%
+}
+.card{
+    margin-right: 15%;
 }
