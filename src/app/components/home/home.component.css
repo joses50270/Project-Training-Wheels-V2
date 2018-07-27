@@ -46,7 +46,7 @@
 
 #slide1{
     width: 100%;
-    height: 600px;
+    height: 700px;
     background: url('../../../assets/youthDev.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@
 }
 #slide2{
     width: 100%;
-    height: 600px;
+    height: 700px;
     background: url('../../../assets/txtCulture.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@
 }
 #slide3{
     width: 100%;
-    height: 600px;
+    height: 700px;
     background: url('../../../assets/techCurriculum.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -73,8 +73,8 @@
 }
 #slide4{
     width: 100%;
-    height: 600px;
-    background: url('../../../assets/productDev.png');
+    height: 700px;
+    background: url('../../../assets/ProductDevelopment.png');
     background-size: cover;
     background-repeat: no-repeat;
     
