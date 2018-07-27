@@ -5,3 +5,8 @@
 .hover-black-button {
     flex: 1;
 }
+
+.smaller-carousel {
+    max-height: 50%;
+    max-width: 50%;
+}
