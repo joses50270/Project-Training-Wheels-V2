@@ -1,0 +1,53 @@
+.cards {
+    display: flex;
+    margin-left: 10%;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 75%;
+    width: 75%;
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+}
+
+.description {
+    text-align: center;
+    width: 100%;
+}
+
+.hover-black-button {
+    flex: 1;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.alignment {
+    cursor: pointer;
+    color: #333;
+    background-color: #fff;
+    border: thin solid #333;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 90px;
+}
+
+.alignment:hover {
+    color: #fff;
+    background-color: #333;
+}
+
+.button-position {
+    position: relative;
+    bottom: 6.5%;
+    right: 16%;
+    left: 16%;
+}

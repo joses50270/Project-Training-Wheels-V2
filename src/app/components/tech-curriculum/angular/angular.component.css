@@ -1,5 +1,25 @@
 .cards {
     display: flex;
+    margin-left: 10%;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 75%;
+    width: 75%;
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+}
+
+.description {
+    text-align: center;
+    width: 100%;
 }
 
 .hover-black-button {
@@ -28,6 +48,6 @@
 .button-position {
     position: relative;
     bottom: 6.5%;
-    right: 14%;
-    left: 14%;
+    right: 16%;
+    left: 16%;
 }
