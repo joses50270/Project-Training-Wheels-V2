@@ -1,6 +1,10 @@
 .cards {
     display: flex;
-    margin-left: 7%
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.card{
+    margin-right: 10%;
 }
 
 .hover-black-button {
@@ -13,12 +17,9 @@
 
 .title {
     text-align: center;
+    margin-top: 8%;
 }
 
-.smaller-carousel {
-    max-height: 50%;
-    max-width: 50%;
-}
 
 .alignment {
     cursor: pointer;
@@ -39,5 +40,42 @@
     position: relative;
     bottom: 6.5%;
     right: 22%;
-    left: 22%;
+    left: 26%;
+}
+
+
+#slide1{
+    width: 100%;
+    height: 600px;
+    background: url('../../../assets/youthDev.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.container{
+    width: 100%
+}
+#slide2{
+    width: 100%;
+    height: 600px;
+    background: url('../../../assets/txtCulture.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide3{
+    width: 100%;
+    height: 600px;
+    background: url('../../../assets/techCurriculum.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#slide4{
+    width: 100%;
+    height: 600px;
+    background: url('../../../assets/productDev.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
